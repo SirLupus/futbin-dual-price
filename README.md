@@ -25,19 +25,24 @@ Found a bug or have an idea? Please [open an issue](https://github.com/SirLupus/
 ## 📸 Screenshots
 
 ### Settings Panel
-The configuration panel allows you to customize exactly what you want to see:
+Click the ⚙️ Platforms button to configure your preferences:
 
-![Settings Panel](https://via.placeholder.com/400x300/1a1a1a/4CAF50?text=Settings+Panel)
+![Settings Panel](https://raw.githubusercontent.com/SirLupus/futbin-dual-price/main/screenshots/settings-panel.png)
 
 ### Side-by-Side Price Boxes
-Console and PC prices displayed together:
+View Console and PC prices simultaneously:
 
-![Price Boxes](https://via.placeholder.com/600x200/1a1a1a/4CAF50?text=Side-by-Side+Price+Boxes)
+![Price Boxes](https://raw.githubusercontent.com/SirLupus/futbin-dual-price/main/screenshots/price-boxes.png)
 
 ### Vertical Graph Display
 Price history graphs stacked for easy comparison:
 
-![Graphs](https://via.placeholder.com/600x400/1a1a1a/4CAF50?text=Stacked+Price+Graphs)
+![Price Graphs](https://raw.githubusercontent.com/SirLupus/futbin-dual-price/main/screenshots/price-graphs.png)
+
+### Full Overview
+Complete view showing all features in action:
+
+![Full Overview](https://raw.githubusercontent.com/SirLupus/futbin-dual-price/main/screenshots/full-overview.png)
 
 ## 🚀 Installation
 
@@ -166,6 +171,15 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 **Lupus**
 
 - GitHub: [@SirLupus](https://github.com/SirLupus)
+
+## 🤖 Development
+
+This project was entirely developed using AI assistance (GitHub Copilot + Claude). It showcases the potential of AI-powered development for creating fully functional, production-ready userscripts with:
+- Clean, well-documented code
+- Comprehensive error handling
+- Persistent configuration management
+- Responsive UI design
+- Full licensing and documentation
 
 ## ⭐ Support
 
