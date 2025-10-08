@@ -23,13 +23,7 @@ Found a bug or have an idea? Please [open an issue](https://github.com/SirLupus/
 - Try refreshing the page (F5)
 - Check if the script is enabled in your userscript manager
 
-### Graphs in Wrong Tabs?
-
-- This was fixed in v6.0
-- Make sure you have the latest version installed
-- Reinstall from the [install link](https://github.com/SirLupus/futbin-dual-price/raw/main/FutbinDualPriceBox.user.js) if neededture Requests
-
-Found a bug or have an idea? Please [open an issue](https://github.com/SirLupus/futbin-dual-price/issues) with:onsole and PC prices side-by-side with fully customizable platform visibility and ordering.
+Found a bug or have an idea? Please [open an issue](https://github.com/SirLupus/futbin-dual-price/issues) with console and PC prices side-by-side with fully customizable platform visibility and ordering.
 
 ![Version](https://img.shields.io/badge/version-6.0-blue)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-green)
