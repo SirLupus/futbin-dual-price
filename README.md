@@ -1,6 +1,33 @@
 # FUTBIN Dual Price Box & Graph Displayer
 
-A powerful userscript that enhances FUTBIN player pages by displayin### 🐛 Bug Reports & Feature Requests
+A powerful userscript that enhances FUTBIN player pages by displayin### 🐛 Bug Reports## 🐛 Bug Reports & Feature Requests
+
+Found a bug or have an idea? Please [open an issue](https://github.com/SirLupus/futbin-dual-price/issues) with:
+
+- **For bugs**: Steps to reproduce, expected vs actual behavior, browser & userscript manager versions
+- **For features**: Clear description of the desired functionality
+
+## ❓ Troubleshooting
+
+### Script Not Working?
+
+1. **Check if enabled**: Open your userscript manager and ensure the script is enabled
+2. **Developer mode** (Chrome only): Go to `chrome://extensions/` and enable Developer mode toggle
+3. **Clear cache**: Clear browser cache and reload the FUTBIN player page
+4. **Check URL**: Script only works on player pages: `https://www.futbin.com/*/player/*`
+5. **Browser console**: Press F12 and check for any error messages
+
+### Settings Button Not Appearing?
+
+- The ⚙️ Platforms button appears in the top-right corner
+- Try refreshing the page (F5)
+- Check if the script is enabled in your userscript manager
+
+### Graphs in Wrong Tabs?
+
+- This was fixed in v6.0
+- Make sure you have the latest version installed
+- Reinstall from the [install link](https://github.com/SirLupus/futbin-dual-price/raw/main/FutbinDualPriceBox.user.js) if neededture Requests
 
 Found a bug or have an idea? Please [open an issue](https://github.com/SirLupus/futbin-dual-price/issues) with:onsole and PC prices side-by-side with fully customizable platform visibility and ordering.
 
@@ -61,6 +88,17 @@ You need a userscript manager installed in your browser:
    - Or manually copy the script content and create a new userscript
 3. **Confirm installation** in your userscript manager
 4. **Visit any FUTBIN player page** - the script will activate automatically!
+
+### ⚠️ Chrome Users: Enable Developer Mode
+
+If you see a "Please enable developer mode" message in Tampermonkey/Violentmonkey:
+
+1. Go to `chrome://extensions/` in your Chrome address bar
+2. Toggle **Developer mode** ON (top-right corner)
+3. Refresh the FUTBIN page
+4. **Note**: This is safe - it only allows Chrome extensions to inject scripts properly
+
+**Why is this needed?** Chrome restricts userscript injection for security. Enabling developer mode in Chrome's extensions page allows Tampermonkey/Violentmonkey to function properly.
 
 ## 📖 Usage
 
